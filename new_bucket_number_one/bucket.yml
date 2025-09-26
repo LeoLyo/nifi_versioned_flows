@@ -1,0 +1,6 @@
+flows:
+  b3dfab27-7a68-42e9-a202-17c8ec3164c6: {ver: 1, file: MyFirstFlowProcessGroup.snapshot,
+    comments: first commit, author: anonymous, created: 1758892463984, flowName: MyFirstFlowProcessGroup,
+    flowDesc: new flow}
+layoutVer: 1
+bucketId: eec81278-7e2c-4eea-832e-494944a7d047
